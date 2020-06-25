@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: Thread class 
-// Author:Hilalnur Beral ID:11549136358
-//Author2:Ýrem Karpat ID:61234117544
+// Author:Hilalnur Beral 
 // Section: 01
 // Assignment: 5
 // Description: This class includes variables for threads and getter setter methods.
