@@ -1,8 +1,7 @@
 
 //-----------------------------------------------------
 // Title: Simulator class 
-// Author:Hilalnur Beral ID:11549136358
-//Author2:Ýrem Karpat ID:61234117544
+// Author:Hilalnur Beral 
 // Section: 01
 // Assignment: 5
 // Description: This class is used to show the threaded execution.
