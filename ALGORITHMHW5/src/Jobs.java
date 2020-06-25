@@ -1,8 +1,7 @@
 
 //-----------------------------------------------------
 // Title: Jobs class 
-// Author:Hilalnur Beral ID:11549136358
-//Author2:Ýrem Karpat ID:61234117544
+// Author:Hilalnur Beral
 // Section: 01
 // Assignment: 5
 // Description: This class includes variables for jobs and its getters setters methods.
@@ -41,7 +40,7 @@ public int getService_time() {
 	return service_time;
 }
 public void setService_time(int service_time) {
-	//Setter methýd for service_time.
+	//Setter methÃ½d for service_time.
 	this.service_time = service_time;
 }
 public int getPriority() {
