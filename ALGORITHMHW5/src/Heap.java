@@ -2,7 +2,6 @@
 //-----------------------------------------------------
 // Title: Heap Based Priority queue implementation
 // Author:Hilalnur Beral ID:11549136358
-//Author2:Ýrem Karpat ID:61234117544
 // Section: 01
 // Assignment: 5
 // Description: This class implements the heap based priority queue and necessary methods
